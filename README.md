@@ -10,10 +10,14 @@ Goes down to probability theory, numerical analysis, linear algebra, and statist
 	- Classification: Logistic regression (cross entropy cost function and gradient descent)
 
 2. Optimization
-	-Cost function (RMSE& Guassian, MAE & laplacian)
-	-Norm (Euclidean, manaholobis)
-	-Convex optimization (Hessian, gradient descent)
-	-Advanced methods (Newton's method; curvature, stochastic gradient desecent and mini-batch technique; random sampling, adam; noise reduction, coordinate descent)
+	- Cost function (RMSE& Guassian, MAE & laplacian)
+	- Norm (Euclidean, manaholobis)
+	- Convex optimization (Hessian, gradient descent)
+	- Advanced methods 
+		- Newton's method; curvature, 
+		- Stochastic gradient desecent and mini-batch technique; random sampling
+		- Adam; noise reduction
+		- Coordinate descent
 
 
 2. Validation
