@@ -14,9 +14,9 @@ Goes down to probability theory, numerical analysis, linear algebra, and statist
 	- Norm (Euclidean, manaholobis)
 	- Convex optimization (Hessian, gradient descent)
 	- Advanced methods 
-		- Newton's method; curvature, 
+		- Newton's method; curvature. Penalizes wiggliness of the surface, therefore finding geodesic path with steepest gradient.   
 		- Stochastic gradient desecent and mini-batch technique; random sampling
-		- Adam; noise reduction
+		- Adam; momentum-based learning noise reduction
 		- Coordinate descent
             - Pros: Will always converge. Converge faster than stochastic gradient descent. 
             - Cons: Can stuck in local minima. Optimization happen one variable at a time, parallelization could be challenging with multiple variables. 
