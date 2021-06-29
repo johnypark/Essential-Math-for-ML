@@ -18,6 +18,8 @@ Goes down to probability theory, numerical analysis, linear algebra, and statist
 		- Stochastic gradient desecent and mini-batch technique; random sampling
 		- Adam; noise reduction
 		- Coordinate descent
+            - Pros: Will always converge. Converge faster than stochastic gradient descent. 
+            - Cons: Can stuck in local minima. Optimization happen one variable at a time, parallelization could be challenging with multiple variables. 
 
 
 2. Validation
