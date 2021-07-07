@@ -40,9 +40,9 @@ Goes down to probability theory, numerical analysis, linear algebra, and statist
 
 ##### References
 
-StatQuest with Josh Starmer https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
-Convex Optimization by Ryan Tishirani https://www.youtube.com/playlist?list=PLjbUi5mgii6AGJW3La3BpEXe27n8v3biT
-Natural language processing by Dan Jurafsky https://www.youtube.com/watch?v=oWsMIW-5xUc&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv
+- StatQuest with Josh Starmer https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
+- Convex Optimization by Ryan Tishirani https://www.youtube.com/playlist?list=PLjbUi5mgii6AGJW3La3BpEXe27n8v3biT
+- Natural language processing by Dan Jurafsky https://www.youtube.com/watch?v=oWsMIW-5xUc&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv
 
 
 
