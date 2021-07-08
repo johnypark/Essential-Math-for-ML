@@ -51,3 +51,6 @@ Keywords
         Tree size is important parameter in the story.
         Learning ensembles and lasso -Shrink number of trees with lasso. sparse.
 
+# What are the ways to optiminztging hyperparameters (# of variables in random forest; shrinkage, number of trees in boosting)??
+
+# Is there any systematic way to fit them? such as convex optimiziatoin?
