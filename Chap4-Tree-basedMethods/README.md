@@ -8,12 +8,13 @@ Reference
 
 Keywords
 
-    Bootstrap (ss8.4, ESL)
+    Bootstrap (ss8.4, ESL) - 264p. 
 
-      - Take a random sample of training data, without duplication, and do that for many times. 
+      - Take a random sample of training data, with duplication, and do that for many times. 
+      - EX) draw B datasets each of size N with replacement from training data, pair of X and Y. zi=(xi,yi). To each bootstrap datset Z* we fit cubic spline. get 95% pointwise confidence band for each point and plot them. 
       - way of asesing accuracy (uncertainty) of a paramtere estimate or prediciton
       - can used to improve the estimate or prediction itself. 
-      - Bootstrap mean is approximate of posterior average. 
+      - Bootstrap mean is approximate of posterior average - connection between bootstrap, least square, maximum likelihood, bayesian models. "Poor man's" Bayes posterior. 
 
     Bagging: Bootstrap aggregation.
 
